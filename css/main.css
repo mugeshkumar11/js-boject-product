@@ -10,10 +10,11 @@
     padding-left: 15px;
     padding-right: 15px;
 }
-
-.box{
+body{
+   
     text-align: center;
-
-    border: solid 2px black;
-    width: 200px;
+}
+button{
+    margin-top:100px ;
+    padding: 10px 20px;    
 }
